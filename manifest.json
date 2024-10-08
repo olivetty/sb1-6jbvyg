@@ -1,0 +1,11 @@
+{
+  "name": "SVG Icon Drag and Drop",
+  "id": "1234567890123456789",
+  "api": "1.0.0",
+  "main": "dist/index.html",
+  "ui": "dist/index.html",
+  "editorType": ["figma"],
+  "networkAccess": {
+    "allowedDomains": ["none"]
+  }
+}
